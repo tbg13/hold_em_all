@@ -1,6 +1,6 @@
 ## Hold'em All
 
-Main repository where I am storing most of my projects dedicated to either learning new technologies !
+Main repository where I am storing most of my projects dedicated to learning new technologies or trying out some stuff !
 
 These projects are of smaller scope to enable quicker learning and avoiding getting bogged down in "production" technicalities.
 
